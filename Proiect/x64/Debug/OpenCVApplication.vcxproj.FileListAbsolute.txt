@@ -1,0 +1,2 @@
+D:\Facultate\PI\Proiect\x64\Debug\OpenCVApplication.exe
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\x64\Debug\OpenCVApplication.exe

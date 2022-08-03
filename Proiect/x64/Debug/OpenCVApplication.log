@@ -1,0 +1,11 @@
+﻿  OpenCVApplication.cpp
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(70,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(245,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(285,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(287,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(382,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\OpenCVApplication.cpp(384,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OpenCVApplication.vcxproj -> D:\Facultate\PI\Birlutiu_Claudiu_Kmeans\Proiect\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg3411_64.dll
+  OpenCV\dll\Debug\opencv_world3411d.dll
+          2 file(s) copied.
